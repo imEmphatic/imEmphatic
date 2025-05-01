@@ -16,8 +16,8 @@
 
 - **Языки:** Python, JavaScript (начальный уровень), SQL  
 - **Базы данных:** PostgreSQL, SQLite  
-- **Технологии:** REST API, Docker, Git, Celery, Redis, JWT, SQLAlchemy, pytest, Poetry  
-- **Фреймворки и библиотеки:** Django, Django REST Framework (DRF), requests, psycopg2, drf-yasg, pillow, python-dotenv, black, isort
+- **Технологии:** Django, Django REST Framework (DRF), FastAPI, Celery, Redis, Docker, Git, GitHub Actions, REST API, JWT, SQLAlchemy, async/await, CORS, Swagger/OpenAPI, CI/CD, Poetry, APScheduler и т.д.
+- **Принципы:** SOLID, разделение на модули, читаемый код, соблюдение PEP8
 
 ---
 
