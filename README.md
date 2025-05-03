@@ -19,7 +19,7 @@
 - **Базы данных:** PostgreSQL, SQLite  
 - **Технологии:** Celery, Redis, Docker, Docker Compose, Git, GitHub Actions, REST API, JWT, SQLAlchemy, async/await, CORS, Swagger/OpenAPI, APScheduler, Flask  
 - **Тестирование:** TDD, pytest, unittest  
-- **CI/CD:** Настройка процессов тестирования и сборки  
+- **Деплой и CI/CD:** Подключение к серверу, настройка и деплой проектов на удалённый сервер, работа с GitLab CI
 - **Прочее:** Poetry, HTML, CSS, Bootstrap, Linux  
 - **Принципы:** SOLID, читаемый код, соблюдение PEP8
 
