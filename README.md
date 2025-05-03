@@ -14,10 +14,14 @@
 
 ## 🛠 Навыки
 
-- **Языки:** Python, JavaScript (начальный уровень), SQL  
+- **Языки:** Python  
+- **Фреймворки:** Django, Django REST Framework (DRF), FastAPI  
 - **Базы данных:** PostgreSQL, SQLite  
-- **Технологии:** Django, Django REST Framework (DRF), Celery, Redis, Docker, Git, REST API, JWT, CI/CD, GitHub Actions, FastAPI, SQLAlchemy, async/await, CORS, Swagger/OpenAPI, APScheduler, Flask и другие
-- **Принципы:** SOLID, разделение на модули, читаемый код, соблюдение PEP8
+- **Технологии:** Celery, Redis, Docker, Docker Compose, Git, GitHub Actions, REST API, JWT, SQLAlchemy, async/await, CORS, Swagger/OpenAPI, APScheduler, Flask  
+- **Тестирование:** TDD, pytest, unittest  
+- **CI/CD:** Настройка процессов тестирования и сборки  
+- **Прочее:** Poetry, HTML, CSS, Bootstrap, Linux  
+- **Принципы:** SOLID, читаемый код, соблюдение PEP8
 
 ---
 
